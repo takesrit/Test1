@@ -19,5 +19,8 @@ class Solution {
     	public int addition(int a, int b) {
     		return a + b;
     	}
+    	public int multi(int a, int b) {
+    		return a * b;
+    	}
     	
 }

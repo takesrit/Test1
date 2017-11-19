@@ -26,6 +26,7 @@ public class TestSolution {
     	Solution sol = new Solution();
         assertEquals(0, sol.addition(0, 0)); 
         assertEquals(100, sol.addition(4, 96)); 
+        assertEquals(25, sol.multi(5, 5)); 
 
 	}
 	
